@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkHunter1749
+- 👋 Hi, I’m @Manoj1749
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python(I'm a beginner lol😂) 
 - 💞️ I’m looking to collaborate on (Will be updated in future)
