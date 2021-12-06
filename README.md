@@ -25,8 +25,8 @@
 - 📫 How to reach me: [manojparasuram.sadhanala@gmail.com](mailto:manojparasuram.sadhanala@gmail.com)
 - ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Manoj1749&show_icons=true&theme=radical&hide_rank=false"/>
-</div>
-  
+<h1 align="left">GitHub Stats</h1>
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=manoj1749&show_icons=true&theme=radical&hide_rank=false"/>
+<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs?username=manoj1749&show_icons=true&locale=en&layout=compact&theme=radical"/>
+ 
 <p align="center"><a href="https://github.com/manoj1749"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
