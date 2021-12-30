@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning python(I'm a beginner lol😂) 
 - 💞️ I’m looking to collaborate on (Will be updated in future)
 - 😄 Pronouns: He/Him/His
-- Member-[FOSS@Amrita](https://github.com/amfoss)
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-manojsadanala-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojsadanala/)
 [![instagram badge](https://img.shields.io/badge/instagram-manoj.sadanala-cd486b?style=for-the-badge&logo=instagram)](https://instagram.com/manoj.sadanala/)
