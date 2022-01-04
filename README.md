@@ -26,7 +26,7 @@
 - ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
 ### Spotify Playing 🎧
-[![Spotify](novatorem-m2atnrzis-darkhunter1749.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
+[![Spotify](darkhunter1749.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 
 <h1 align="left">GitHub Stats</h1>
