@@ -25,7 +25,7 @@
 - 📫 How to reach me: [manojparasuram.sadhanala@gmail.com](mailto:manojparasuram.sadhanala@gmail.com)
 - ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
-### Spotify Playing 🎧
+### Currently Listening To 🎧
 [![Spotify](https://novatorem-phi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 
