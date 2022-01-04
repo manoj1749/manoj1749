@@ -25,6 +25,10 @@
 - 📫 How to reach me: [manojparasuram.sadhanala@gmail.com](mailto:manojparasuram.sadhanala@gmail.com)
 - ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
+
+
 <h1 align="left">GitHub Stats</h1>
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=manoj1749&show_icons=true&theme=radical&hide_rank=false"/></p>
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=manoj1749&show_icons=true&locale=en&layout=compact&theme=radical"/></p>
