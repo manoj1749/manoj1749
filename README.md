@@ -5,6 +5,8 @@
   <h1>Hello, I'm Manoj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 </div>
 
+### Currently Listening To 🎧
+[![Spotify](https://novatorem-phi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python(I'm a beginner lol😂) 
@@ -24,9 +26,6 @@
 - 🔭 I am currently pursuing B.tech in Electronics and Communication Engineering.
 - 📫 How to reach me: [manojparasuram.sadhanala@gmail.com](mailto:manojparasuram.sadhanala@gmail.com)
 - ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
-
-### Currently Listening To 🎧
-[![Spotify](https://novatorem-phi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 
 <h1 align="left">GitHub Stats</h1>
