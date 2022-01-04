@@ -6,7 +6,7 @@
 </div>
 
 ### Currently Listening To 🎧
-[![Spotify](https://novatorem-neon-psi.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
+[![Spotify](https://novatorem-lake-mu.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python(I'm a beginner lol😂) 
