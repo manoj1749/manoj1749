@@ -29,10 +29,9 @@
 
 
 ## GitHub Stats
-| 😶‍🌫️ | 🌝 |
-|-----|------|
-|![](https://github-readme-stats.vercel.app/api?username=manoj1749&show_icons=true&theme=radical&hide_rank=false)|![](https://github-readme-stats.vercel.app/api/top-langs?username=manoj1749&show_icons=true&locale=en&layout=compact&theme=radical)|
-## Metrics
+| 😶‍🌫️ |
+|-----|
+|![](https://github-readme-stats.vercel.app/api?username=manoj1749&show_icons=true&theme=radical&hide_rank=false)|
 ![Metrics](https://metrics.lecoq.io/Manoj1749?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
  
 <p align="center"><a href="https://github.com/manoj1749"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
