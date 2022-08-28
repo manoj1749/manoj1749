@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - 🔭 I am currently pursuing B.tech in Electronics and Communication Engineering.
 - 📫 How to reach me: [manojparasuram.sadhanala@gmail.com](mailto:manojparasuram.sadhanala@gmail.com)
-- ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
+# ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
 <table>
   <tr>
