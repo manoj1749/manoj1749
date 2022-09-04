@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://github.com/manoj1749"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <div align="center">
   <h1>Hello, I'm Manoj! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
