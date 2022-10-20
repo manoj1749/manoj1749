@@ -41,7 +41,7 @@
 [![Spotify](https://novatorem-lake-mu.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj1749&theme=xcode&bg_color=151515&hide_border=true)-->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj1749&theme=xcode&bg_color=151515&hide_border=true)
 
 [![@manoj1749's Holopin board](https://holopin.me/manoj1749)](https://holopin.io/@manoj1749)-->
  
