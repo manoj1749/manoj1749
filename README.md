@@ -35,12 +35,12 @@
 [![dev community badge](https://img.shields.io/badge/dev-manoj1749-242424?style=for-the-badge&logo=dev.to)](https://dev.to/manoj1749)
 [![Medium badge](https://img.shields.io/badge/medium-Manoj_Sadanala-FFFFFF?style=for-the-badge&logo=medium)](https://medium.com/@manojparasuram.sadhanala)
 [![Gmail Badge](https://img.shields.io/badge/Mail-manojparasuram.sadhanala@gmail.com-ea4335?style=for-the-badge&logo=gmail)](mailto:manojparasuram.sadhanala@gmail.com)
-
+-->
 
 ## Currently Listening To / Last Track I Listened To 🎧
 [![Spotify](https://novatorem-lake-mu.vercel.app/api/spotify)](https://open.spotify.com/user/31fnytmcrhil3lqdekzzg2dokboi)
 
-
+<!--
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj1749&theme=xcode&bg_color=151515&hide_border=true)
 
 [![@manoj1749's Holopin board](https://holopin.me/manoj1749)](https://holopin.io/@manoj1749)-->
