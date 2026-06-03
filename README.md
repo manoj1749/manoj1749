@@ -7,3 +7,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-manoj1749s-projects.vercel.app?user=manoj1749&theme=dark)](https://git.io/streak-stats)
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=manoj1749&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
