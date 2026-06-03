@@ -5,7 +5,6 @@
 - 📫 How to reach me: [gmail](mailto:manojparasuram.sadhanala@gmail.com)
 # ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
-[![GitHub Streak](https://github-readme-streak-stats-git-main-manoj1749s-projects.vercel.app?user=manoj1749&theme=dark)](https://git.io/streak-stats)
 
 
 <table>
