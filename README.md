@@ -3,9 +3,6 @@
 </div>
 
 - 📫 How to reach me: [gmail](mailto:manojparasuram.sadhanala@gmail.com)
-# ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
-
-
 
 <table>
   <tr>
@@ -14,3 +11,9 @@
     </td>
   </tr>
 </table>
+ 
+# ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
+
+
+
+
