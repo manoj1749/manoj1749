@@ -4,13 +4,9 @@
 
 - 📫 How to reach me: [gmail](mailto:manojparasuram.sadhanala@gmail.com)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=manoj1749&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=manoj1749&theme=highcontrast)](https://git.io/streak-stats)
+
+
  
 # ![](https://komarev.com/ghpvc/?username=your-manoj1749&style=for-the-badge&color=ff69b4)
 
